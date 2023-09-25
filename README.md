@@ -3,6 +3,15 @@
 ![YouTube logo](output_data/yt_logo_rgb_light.png)
 
 
+## Contents
+
+    1. Project Description
+    2. Dataset
+    3. Questions/Analysis
+    4. Evaluation
+    5. References
+
+
 ## Project Description   
 
 Investigate what factors may have contributed to the growth and popularity of YouTube channels globally and within their own countries.
@@ -36,13 +45,38 @@ We identified four questions to generate analysis on. Each team member answered 
 
 ### Q3 - Does the Education Enrollment/Unemployment rate have a positive/negative correlation with the number of successful YouTube channels per country?
 
+#### Visuals
+
+| ![Education vs Channels](output_data/youtubers_education_rate.png) | ![Unemployment vs Channels](output_data/youtubers_unemployment_rate.png) |
+| Education Enrollment Rate vs Number of Channels per Country | Unemployment Rate vs Number of Channels per Country |
+
+#### Analysis
+
+Education Enrollment  
+    
+    - With a Pearson r score of 0.1, there is a very weak positive correlation between the number of YouTuber's and their respective country's Education Enrollment rate.  
+    - This dataset is only concerned with the top ~800 Global channels. It would be intereseting to look into more detail and compare the results between countries with the top and bottom Education Enrollment rates, on a broader selection of channels to view the correlation.  
+
+Unemployment
+
+    - Although there is a slightly stronger correlation between 'Unemployment Rate' and '# YouTuber's', than compared to 'Education Enrollment', this is still on the weaker side.  
+    - The linear regression and correalation values have most likely been skewed due to the 'United States' point plot which consists of 289 YouTuber's and a Unemployment Rate of near 15%.  
+
+---
 
 ### Q4 - Looking at the year channels were created, which channel has gained popularity the quickest, is there a clear metric that has contributed to this?
 
+---
 
+## Evaluation  
 
-## Review
+If we were to repeat this project again then there would be some adjustments we'd like to incorporate to improve the analysis, visualizations and dataset:
 
+    - Next time we would produce map plots for a better visual of country specific data  
+    - Make use of YouTube and Google API’s to obtain more dynamic data  
+    - Due to size of the YouTube platform if we did the project again we would use a larger dataset focussed on the highest usage countries  
+
+---
 
 ## References
 
