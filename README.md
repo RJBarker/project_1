@@ -41,11 +41,11 @@ We identified four questions to generate analysis on. Each team member answered 
 
 ---
 
-### Q2 - Which category is the most popular as a whole, and for each country? ([Rafiullahmohammadzai](https://github.com/Rafiullahmohammadzai))
+### Q2 - Which category is the most popular as a whole, and for each country? ([@Rafiullahmohammadzai](https://github.com/Rafiullahmohammadzai))
 
 ---
 
-### Q3 - Does the Education Enrollment/Unemployment rate have a positive/negative correlation with the number of successful YouTube channels per country? ([@RJBarker](https://github.com/RJBarker)
+### Q3 - Does the Education Enrollment/Unemployment rate have a positive/negative correlation with the number of successful YouTube channels per country? ([@RJBarker](https://github.com/RJBarker))
 
 #### Visuals
 
