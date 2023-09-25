@@ -5,11 +5,11 @@
 
 ## Contents
 
-1. [Project Description](https://github.com/RJBarker/project_1/edit/main/README.md#project-description)
-2. [Dataset](https://github.com/RJBarker/project_1/edit/main/README.md#dataset-used)
-3. [Questions/Analysis](https://github.com/RJBarker/project_1/edit/main/README.md#analysis-questions)
-4. [Evaluation](https://github.com/RJBarker/project_1/edit/main/README.md#evaluation)
-5. [References](https://github.com/RJBarker/project_1/edit/main/README.md#references)
+1. [Project Description](#project-description)
+2. [Dataset](#dataset-used)
+3. [Questions/Analysis](#analysis-questions)
+4. [Evaluation](#evaluation)
+5. [References](#references)
 
 
 ## Project Description   
