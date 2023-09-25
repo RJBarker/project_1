@@ -38,6 +38,24 @@ This dataset contains the top 995 YouTube channels by subscriber count, with key
 We identified four questions to generate analysis on. Each team member answered a question. The questions and analysis are:
 
 ### Q1 - Which country has the most video uploads per capita? ([@jkalsi1997](https://github.com/jkalsi1997))
+![uploads in each country](https://github.com/RJBarker/project_1/assets/141664737/c3f7fac9-c577-4acd-b3cc-999a0a11c95a)
+![uploads per cap](https://github.com/RJBarker/project_1/assets/141664737/8b36dc2c-4e9f-4ea0-95ed-4b6fac7e24d9)
+
+Out of 197 countries in the world, 48 were used in the analysis of this dataset. 
+Graph one, uploads in each country, shows the total amount of uploads from each country. From this we can gather that India has the most uploads out of all countries. This is likely due to the vastness of population and ethnic and cultual diverisity. 
+
+Graph two, uploads per capita, shows how many uploads each country has given a sample of 1000 people. 
+This involved incorporating another variable in the analysis where we include the population values. 
+
+We can conlude that the country that has the most video uploads per capita in a sample of 1000 people is Singapore.
+
+We also analysed the data further looking at the mean, median, standard deviation, standard error and variance of uploads in each country 
+From that we can see that there are likely outliers in many countries in the Dataset. 
+
+Countries such as India and Indonesia have incredibly high mean values which is possible due to a high level of some parameter, maybe population. 
+Pakistan and Philippinwa demonstrates high variance and standard devaition values emphasises the large variance in data.
+United Arab Emirates and Unites States have high standard error showing less precision in the calculated means. 
+
 
 ---
 
