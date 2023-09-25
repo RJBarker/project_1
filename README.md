@@ -37,15 +37,15 @@ This dataset contains the top 995 YouTube channels by subscriber count, with key
 
 We identified four questions to generate analysis on. Each team member answered a question. The questions and analysis are:
 
-### Q1 - Which country has the most video uploads per capita? (@jkalsi1997)
+### Q1 - Which country has the most video uploads per capita? ([@jkalsi1997](https://github.com/jkalsi1997))
 
 ---
 
-### Q2 - Which category is the most popular as a whole, and for each country?
+### Q2 - Which category is the most popular as a whole, and for each country? ([Rafiullahmohammadzai](https://github.com/Rafiullahmohammadzai))
 
 ---
 
-### Q3 - Does the Education Enrollment/Unemployment rate have a positive/negative correlation with the number of successful YouTube channels per country? (@RJBarker)
+### Q3 - Does the Education Enrollment/Unemployment rate have a positive/negative correlation with the number of successful YouTube channels per country? ([@RJBarker](https://github.com/RJBarker)
 
 #### Visuals
 
@@ -67,7 +67,7 @@ Unemployment
 
 ---
 
-### Q4 - Looking at the year channels were created, which channel has gained popularity the quickest, is there a clear metric that has contributed to this? (@
+### Q4 - Looking at the year channels were created, which channel has gained popularity the quickest, is there a clear metric that has contributed to this? ([@brcaesar17](https://github.com/brcaesar17))
 
 ---
 
